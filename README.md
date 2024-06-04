@@ -20,7 +20,7 @@ Great! Here’s the updated README with your GitHub username and email included:
 
 ## Screenshots
 
-![Screenshot 1](path-to-screenshot1.png)
+![Screenshot 1](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG/blob/main/Screenshot1.jpg?raw=true)
 ![Screenshot 2](path-to-screenshot2.png)
 ![Screenshot 3](path-to-screenshot3.png)
 ![Screenshot 3](path-to-screenshot3.png)
