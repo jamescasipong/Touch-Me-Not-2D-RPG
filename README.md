@@ -1,5 +1,3 @@
-Great! Here’s the updated README with your GitHub username and email included:
-
 ---
 
 # Touch Me Not
