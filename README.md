@@ -19,6 +19,8 @@
 ![Screenshot 2](Screenshot2.jpg)
 ![Screenshot 3](Screenshot3.jpg)
 ![Screenshot 3](Screenshot4.jpg)
+![Screenshot 3](Screenshot6.jpg)
+![Screenshot 3](Screenshot5.jpg)
 
 ## Getting Started
 
