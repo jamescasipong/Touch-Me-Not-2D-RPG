@@ -4,7 +4,7 @@ Great! Here’s the updated README with your GitHub username and email included:
 
 # Touch Me Not
 
-![Touch Me Not](path-to-your-logo-or-screenshot.png)
+![Touch Me Not](Screenshot1.jpg)
 
 ## Overview
 
@@ -20,7 +20,6 @@ Great! Here’s the updated README with your GitHub username and email included:
 
 ## Screenshots
 
-![Screenshot 1](Screenshot1.jpg)
 ![Screenshot 2](Screenshot2.jpg)
 ![Screenshot 3](Screenshot3.jpg)
 ![Screenshot 3](Screenshot4.jpg)
