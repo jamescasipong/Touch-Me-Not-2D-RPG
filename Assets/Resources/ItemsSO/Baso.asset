@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22ebe45bde28be54db6c4bf10f648324, type: 3}
+  m_Name: Baso
+  m_EditorClassIdentifier: 
+  name: Baso
+  description: Baso para sa alak na may hugis-tulipan na ginagamit sa pag-inom ng
+    alak upang mas mapahayag ang lasa at amoy nito.
+  icon: {fileID: 307455941, guid: 9c4e539b652cfca4c9711b012a7a9952, type: 3}
+  baseCost: 10

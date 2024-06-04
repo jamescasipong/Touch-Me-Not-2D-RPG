@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708fb34db10f6fa45b8b50414bc6e4f4, type: 3}
+  m_Name: Chap1PadreDamaso
+  m_EditorClassIdentifier: 
+  name: Chap1PadreDamaso
+  description: 
+  startDialogue:
+    npcLines: []
+  inProgressDialogue:
+    npcLines: []
+  completedDialogue:
+    npcLines:
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: "Kaalis ko pa lamang sa bayan ng San Diego, pag tapos ng 20 taong panunugkulan.
+        May 6,000 mamayan doon at ang gusto ng bawat isa\u2019y batid ko."
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: "At nang ako\u2019y umalis, sino ang naghatid sa akin? Ilang mattanda
+        babae at ilan ding Hermano Tercero. 20 taong tumira ako roon."
+    - characterName: Nakapaisnato
+      characterIcon: {fileID: 21300000, guid: 7b419bad89c42d342b66d683b065e809, type: 3}
+      text: Wala pong kinalaman iyan sa pag-alis ng pagbabawal sa libreng pagbebenta
+        ng tabako
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Ano? ano?! Hindi kayo nakakaintindi. Hindi ba ninyo nalalaman malo ang
+        pagbabagong ginawa ng mga ministro? '
+    - characterName: Nakapaisnato
+      characterIcon: {fileID: 21300000, guid: 7b419bad89c42d342b66d683b065e809, type: 3}
+      text: Naniniwala ba kayo?
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Gaya ng paniniwala ko sa Ebanghelyo. Ang mga indio ay mapagbaya
+    - characterName: Nakapaisnato
+      characterIcon: {fileID: 21300000, guid: 7b419bad89c42d342b66d683b065e809, type: 3}
+      text: 'Ipagpatawad ninyo and di ko pagsang-ayon. Ang sinabi mo ay gumising
+        sa aking damdamin. Alam po ba ng mga taong iyan ang pagkapabaya o pinagtatakip
+        lamang sa pamamahala ng mga sumakop, na narinig sa isang manlalakbay? '
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Si Laruja ang magpapatunay sa inyong mga indio ay mangmang at mapagwalang-bahala
+    - characterName: Ginoong Laruja
+      characterIcon: {fileID: 21300000, guid: 4830442716daf42438260b9930409983, type: 3}
+      text: 'Totoo iyan. Wala nang hihigit pa sa mga indio sa kamangmangan at pagkawalang
+        utang na loob. '
+    - characterName: Kawal
+      characterIcon: {fileID: -1838634616, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: '20 taon na kayo sa bayan ng san diego. Hindi ba kayo sumaya doon? '
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Hindi! Kung walang kalayaan ang magkura ay mapapahamak ang bayan. '
+  textGuideString: 
+  toDoToFinishQuest: 
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 0
+  giveCoins: 0

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79624fcbd7da9a740ac0d48244bf6502, type: 3}
+  m_Name: Kabanata
+  m_EditorClassIdentifier: 
+  name: Kabanata
+  description: 
+  startDialogue:
+    npcLines:
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Kamusta, may ipapasuyo lang ako sayo kung pwede
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Pwede mo ba ipakalat yung balita sa mga tao dito sa lugar na meron pag
+        diriwang
+    - characterName: Player
+      characterIcon: {fileID: -1633042636, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Sige po, masusunod
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Maraming salamat iho
+  inProgressDialogue:
+    npcLines:
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Hindi mo pa napapakalat yung balita
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Bumalik ka dito pag tapos mo na yung pinapautos ko
+  completedDialogue:
+    npcLines:
+    - characterName: Player
+      characterIcon: {fileID: -1633042636, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Tapos ko na ipakalat lahat yung balita tungkol sa pagtitipon
+    - characterName: Juan
+      characterIcon: {fileID: -1182640689, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Salamat
+    - characterName: Player
+      characterIcon: {fileID: -1633042636, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Walang anuman
+  textGuideString: Lumabas at Ipakalat sa buong lugar ang pagtitipon
+  toDoToFinishQuest: Bumalik kay Juan para tapusin ang quest
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 100
+  giveCoins: 0
+  questsToCheck:
+  - {fileID: 11400000, guid: a0b23da2b11e0b143818f81b83c914e5, type: 2}
+  - {fileID: 11400000, guid: 7183fba9089daff40921a20cb7733e05, type: 2}
+  - {fileID: 11400000, guid: fa7e4bdf00dfe594088c29e4d9b62190, type: 2}
+  - {fileID: 11400000, guid: bb65d88b4cd2242449921bb7b27dcde9, type: 2}

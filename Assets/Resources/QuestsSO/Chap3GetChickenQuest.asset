@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708fb34db10f6fa45b8b50414bc6e4f4, type: 3}
+  m_Name: Chap3GetChickenQuest
+  m_EditorClassIdentifier: 
+  name: Chap3GetChickenQuest
+  description: 
+  startDialogue:
+    npcLines:
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Kamusta, kaibigan! Mayroon akong kailangang ipagawa sa iyo. Kailangan
+        ko ng tulong sa isang bagay.
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Kailangan kong magkaroon ng isang sariwang manok para sa isang espesyal
+        na okasyon.
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Maaari mo bang hanapin at bilhin ang isang manok para sa akin? Ang tanging
+        hiling ko ay maging sariwa at malusog ito. Kung maaari, pakiusap, gawin ito
+        agad.
+  inProgressDialogue:
+    npcLines:
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Kamusta ka na? May balita ka na ba sa manok? Ang espesyal na okasyon
+        ay malapit na at kailangan ko na talaga ng manok. Sana ay nahanap mo na ang
+        pinakamagandang manok doon.
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Maaari mo bang hanapin at bilhin ang isang manok para sa akin? Ang tanging
+        hiling ko ay maging sariwa at malusog ito. Kung maaari, pakiusap, gawin ito
+        agad.
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Sige po, masusunod.
+  completedDialogue:
+    npcLines:
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Salamat sa iyong tulong! Talaga namang napakagaling mong tumulong. Tingnan
+        mo lang itong manok, napakaganda at malusog! Sigurado akong magugustuhan
+        ito ng mga bisita sa espesyal na okasyon.
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Maraming salamat sa iyong serbisyo. Bilang pasasalamat, mayroon akong
+        handog na maliit para sa iyo. Sana ay magustuhan mo ito!
+    - characterName: Player
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Walang anuman po.
+  textGuideString: Lumabas at bumili ng isang manok
+  toDoToFinishQuest: Bumalik kay Kapitan Tiyago at ibigay ang manok
+  requiredItem: {fileID: 11400000, guid: 280f62b90cd72bd47a824caa0166cbc3, type: 2}
+  requiredItemCount: 1
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 100
+  giveCoins: 0

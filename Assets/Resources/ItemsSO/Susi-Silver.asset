@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22ebe45bde28be54db6c4bf10f648324, type: 3}
+  m_Name: Susi-Silver
+  m_EditorClassIdentifier: 
+  name: Susi-Silver
+  description: Ito ay susi para magamit mo pang bukas sa pintuang bakal na pilak
+  icon: {fileID: -1520381866, guid: 11693e6814ebf934bbd80ba2c0361e05, type: 3}
+  baseCost: 0

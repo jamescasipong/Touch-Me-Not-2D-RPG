@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22ebe45bde28be54db6c4bf10f648324, type: 3}
+  m_Name: Mango
+  m_EditorClassIdentifier: 
+  name: Mango
+  description: Mango is a tropical fruit cherished for its sweet, juicy flesh. With
+    a smooth, colorful skin that ranges from green to red, the mango's succulent,
+    aromatic flesh comes in various shades of yellow and orange. Bursting with a
+    delightful blend of sweetness and tanginess, mangoes are a delectable addition
+    to salads, smoothies, desserts, and cuisines worldwide. Rich in vitamins, minerals,
+    and antioxidants, mangoes are not only delicious but also a nutritious treat.
+  icon: {fileID: 21300000, guid: bc8a028933660c140ac6c07b715abf39, type: 3}
+  baseCost: 10

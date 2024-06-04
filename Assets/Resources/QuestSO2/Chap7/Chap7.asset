@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79624fcbd7da9a740ac0d48244bf6502, type: 3}
+  m_Name: Chap7
+  m_EditorClassIdentifier: 
+  name: Chap7
+  description: 
+  startDialogue:
+    npcLines:
+    - characterName: Tiya Isabel
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Pwede mo ba akong tulungan linisan yung mga kalat dito
+    - characterName: Tiya Isabel
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Pulutin mo lang yung mga gamit na nakalat dito
+    - characterName: Player
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Sige po masusunod
+    - characterName: Tiya Isabel
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Maraming salamat
+  inProgressDialogue:
+    npcLines:
+    - characterName: Tiya Isabel
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Hindi po nagagawa yung pinapagawa ko
+  completedDialogue:
+    npcLines:
+    - characterName: Player
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Nagawa ko na po yung pinauutos ninyo
+    - characterName: Tiya Isabel
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Salamat
+    - characterName: Player
+      characterIcon: {fileID: 69342182, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Walang anuman po
+  textGuideString: 
+  toDoToFinishQuest: 
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 0
+  giveCoins: 0
+  questsToCheck:
+  - {fileID: 11400000, guid: 117c76d1d8eb86743853267db1c56c0b, type: 2}
+  - {fileID: 11400000, guid: 63dfe946084e7054fa227a545f839cd9, type: 2}
+  - {fileID: 11400000, guid: c02d2e1c481fd154e972c039148c7a61, type: 2}
+  - {fileID: 11400000, guid: 29406ef61b6966d4fb6f3e6803f31a2f, type: 2}

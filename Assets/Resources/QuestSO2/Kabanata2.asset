@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708fb34db10f6fa45b8b50414bc6e4f4, type: 3}
+  m_Name: Kabanata2
+  m_EditorClassIdentifier: 
+  name: Kabanata2
+  description: 
+  startDialogue:
+    npcLines: []
+  inProgressDialogue:
+    npcLines: []
+  completedDialogue:
+    npcLines:
+    - characterName: Kapitan Tiyago
+      characterIcon: {fileID: 1751992159, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Kinararangal kong Ipakilala sainyo si Ginoong Crisosotmo Ibarra, anak
+        ng yumao kong kaibigan. Kadarating lamang niya galing europa at aking siya
+        sinaluong. '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Aba! Ang kura sa aking bayan at matalik na kaibigan ng aking ama.  '
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: 7389fd14a0e8f894a8830314aafae359, type: 3}
+      text: 'Hindi ka nagakakamali! Hindi man kailanman naging matalik na kaibigan
+        ang iyong ama.  '
+    - characterName: Tenyente
+      characterIcon: {fileID: 1108219292, guid: 7389fd14a0e8f894a8830314aafae359, type: 3}
+      text: "Binata, kayo ba ang anak ni Don Rafael Ibarra? Salamat at nakarating
+        kayo ng maayos. Nakaroon ako ng pagkakataong makilala ang iyong ama, at masasabi
+        ko lang na siya\u2019y karapat-dapat ng pagdangal at paggalang sa Pilipinas!  "
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Ang papuri niyo sa aking ama pumapawi sa aking hinala tungkol sa kanyang
+        pag kamatay. '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Mga ginoo, ipahintulot ninyong ipakilala ko ang aking sarili, tulad ng
+        kaugalian sa Alemenya, dahil sa kawalan ng magpapakilala sa akin.
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: "Hindi ko nais dalhin dito ang kaugalian sa ibang lupain sapagkat tayo
+        rito ay may likas na kabutihang ugali, ngunit ako\u2019y napilitan. Mga ginoo,
+        ang pangalan ko y Juan Crisostomo Ibarra y Magsalin."
+  textGuideString: 
+  toDoToFinishQuest: 
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 0
+  giveCoins: 0

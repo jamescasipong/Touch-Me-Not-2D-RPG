@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraBound
+  - UIs
+  - Spotlights
+  - Camera2
+  - Tutorial
+  - Pointer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Portal
+  - Interactable
+  - Wall
+  - Player
+  - Triggers
+  - CameraBound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sidecoli
+    uniqueID: 2831958689
+    locked: 0
+  - name: Background00
+    uniqueID: 576679821
+    locked: 0
+  - name: Background01
+    uniqueID: 2758435293
+    locked: 0
+  - name: NPC
+    uniqueID: 4004260313
+    locked: 0
+  - name: ForeGround
+    uniqueID: 800320267
+    locked: 0
+  - name: shadow
+    uniqueID: 89859681
+    locked: 0
+  - name: solidobjects_01
+    uniqueID: 578514629
+    locked: 0
+  - name: Player
+    uniqueID: 2217650517
+    locked: 0
+  - name: solidobject_02
+    uniqueID: 368232771
+    locked: 0
+  - name: ObjectNoCol
+    uniqueID: 241363783
+    locked: 0
+  - name: SolidObjectsabove _03
+    uniqueID: 700590051
+    locked: 0

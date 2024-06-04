@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: 2c193dfbca59a1d4287c8477ab7e9d33
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_icons_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 960
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cce1142f99add46a3cb61a01fc0abe
+      internalID: -1108918086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1002
+        width: 192
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc115f9ec081c4b8cb21fc201e005b
+      internalID: -895761299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1002
+        width: 174
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f02fa97b5e34e40b67fd14413496e5
+      internalID: 1506500946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 780
+        width: 168
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf2aae7fc66c24baa45c63668d8e62
+      internalID: -1580068285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1002
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7860dde7ed11834986e2c099d0eb542
+      internalID: -1993645468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 780
+        width: 174
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c46b2e26d5203408e2ed1cc6230703
+      internalID: -1563451656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1002
+        width: 254
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc8642ba67a7845854eba02587d75f
+      internalID: -1439789726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1002
+        width: 684
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bcc5ee00f9f84498c71a51d4fe018
+      internalID: -1281025114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_8
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1002
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a6ecb5be420740b4e756495e4e1ab
+      internalID: -66230351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1002
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf1f99f83de234983d1c76ef165a20
+      internalID: 1213813504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_10
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1002
+        width: 72
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3038d7c3af7a2f04e99a8d51038a750c
+      internalID: 1207725003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 954
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4265727aabe0541beac49a6a0fad9f
+      internalID: 2068859322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 792
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc893c6e80c81c4f87eba290d0fefdf
+      internalID: -311275514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 792
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1961fc3ffd09408b4d09d23117072
+      internalID: 1520186173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 804
+        width: 198
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79701377732e4024b814f26ec416014b
+      internalID: -1251819401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_15
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 816
+        width: 201
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3110feb35cc2b747832344db55a41a7
+      internalID: -744097889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_16
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 816
+        width: 213
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e545b92d24dce4bb137835f02753d1
+      internalID: 853864970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_17
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 804
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b3f87ab9e4b24eb766ef259f03278
+      internalID: -1537872983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 948
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a50e7612c90c40a902ff5be7271b7
+      internalID: -145270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 942
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31114062dc16424ea453e91eb31dc2e
+      internalID: -182969979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 853
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175669ad82447554490cc109aba1fe6b
+      internalID: 1028882811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 847
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f3790e676ac6428682e0f0fc3198d
+      internalID: -295842645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 841
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b145dfcfbd3174eb957815af67a0f3
+      internalID: 1155700395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 24
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf06c574873ee49ae92876c57654a3
+      internalID: 1254220510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 528
+        width: 200
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73dd93f0d7e99047a4cea4a52f0ea7a
+      internalID: 1416281244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 528
+        width: 204
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fdd5fe38045441876f092970472f0
+      internalID: 966510394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 534
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cccaa3f5a5d7fd428db07fdac6c8782
+      internalID: -766401358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 538
+        width: 204
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48556ba2f772246967069d0d1a5a44
+      internalID: 522654390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_28
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 534
+        width: 144
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846fd64a182479489cc0e21b326cd8a
+      internalID: -400523082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_29
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 522
+        width: 186
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9f3870d41d7945abbf76e257f6991
+      internalID: 740698162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4e5409c6e3594a886c3d990915ff2
+      internalID: 367267117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_31
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 552
+        width: 215
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021632c3e7a3294492725d0a5680804
+      internalID: -260991261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_32
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 534
+        width: 174
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb5e1003214d2458ed6222c38528d3
+      internalID: -155501897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 426
+        width: 9
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f430910fa86279b4d9e2dc61847accb2
+      internalID: 1537542144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_34
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 541
+        width: 11
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed237cac81233489e1efbe76a2f064
+      internalID: 276101621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 396
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4058795325714aad6dfd634ad492c
+      internalID: 658552256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 286
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847968a5b55a994c8dcf3f26373fe3a
+      internalID: 92971891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 286
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a59a19f7d8b69e48a7c240490ba9eca
+      internalID: -1919245683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 286
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b87cc6e0a815d4aa230a1dc72fa8e1
+      internalID: -313425535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 282
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef30cf249b61ad4691fb2f1ebbddfe5
+      internalID: -249658636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_40
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 336
+        width: 206
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a275073df58614dbb8bad590838841
+      internalID: 1542566606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_41
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 264
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8b17ba62784f4db08264915d59e2c
+      internalID: -1559092917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_42
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 294
+        width: 129
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd202be86caf0048b1ec0617ed9c9d2
+      internalID: 1231142609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_43
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 300
+        width: 194
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f0df4439966b45bda315569546810
+      internalID: -1840578270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_44
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 385
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac660ba6996b7b5489456c6ebba04eb5
+      internalID: -667757472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 338
+        width: 8
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0f9fd5b0252244badfbdecc618078
+      internalID: -213368891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_46
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 332
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975c2a30fff81640967cd65703be8c8
+      internalID: -1435237816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 24
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79dc15b0c981d544bcdede972d932c5
+      internalID: -1044242123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 207
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f80204282c8a458e93184b08a5ddb
+      internalID: -22507401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 210
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95464e87e4b59b4fa09725807e7f900
+      internalID: -637232795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_50
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 177
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06a51187e45664e972f27b06288591
+      internalID: 1689971043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_51
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 12
+        width: 180
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b7dd955f29854cb621459112cbcd1
+      internalID: -1985114288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_52
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 48
+        width: 160
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022009d93daffd14bbfe1e5b88b5d7b7
+      internalID: 433878644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_53
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 17
+        width: 200
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0721d23e7e9a4b88aed1fbf7cd9b3
+      internalID: 1318119560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_54
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 18
+        width: 143
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33027df4931707e45b26d3d4fac6bd1e
+      internalID: 1081946024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_55
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 48
+        width: 214
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d260693d52994585cf3a331e4b155
+      internalID: 894836384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_56
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 198
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c38eb8b0006742a0cd056cb320282
+      internalID: 798353570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 138
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51ecbede1acba448f6e99451195168
+      internalID: 1916824526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_58
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 27
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae5584a744c094e9afd2f4edbc853c
+      internalID: -834539477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 243
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93595c6d147fe4281935e25fd643e3
+      internalID: -1941402961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_60
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 11
+        width: 154
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbd3d3dcb9fab438e97a6ff81df19e
+      internalID: 1158473649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_61
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d4b77a7219144b888ca3951208717
+      internalID: -1657253184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_62
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 162
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed5c66147825b458a0a817b8d1aeb5
+      internalID: -1040008791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_63
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ac10cfa997b024e96dc005e3be9166
+      internalID: 1880479131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_64
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 384
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c75c519370fbc4594893ae60b7a7c3
+      internalID: 131672687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_65
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb53c8c53e8984d9ce771464e6fd00
+      internalID: 1159788522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_66
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e280d81dea4d649924593ef8f367e6
+      internalID: 431453841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_67
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 318
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02180d2847494f449f7901a3f127864
+      internalID: 1267691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_68
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671561c61e48cc145a533c6149e157a5
+      internalID: -564007254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_69
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d0e1d3c280044895df31be713c522
+      internalID: 1243761904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_icons_70
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7cfde3566f144487eba0a589332ea
+      internalID: -1600387652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_icons_0: -1108918086
+      zombie_icons_1: -895761299
+      zombie_icons_10: 1207725003
+      zombie_icons_11: 2068859322
+      zombie_icons_12: -311275514
+      zombie_icons_13: 1520186173
+      zombie_icons_14: -1251819401
+      zombie_icons_15: -744097889
+      zombie_icons_16: 853864970
+      zombie_icons_17: -1537872983
+      zombie_icons_18: -145270639
+      zombie_icons_19: -182969979
+      zombie_icons_2: 1506500946
+      zombie_icons_20: 1028882811
+      zombie_icons_21: -295842645
+      zombie_icons_22: 1155700395
+      zombie_icons_23: 1254220510
+      zombie_icons_24: 1416281244
+      zombie_icons_25: 966510394
+      zombie_icons_26: -766401358
+      zombie_icons_27: 522654390
+      zombie_icons_28: -400523082
+      zombie_icons_29: 740698162
+      zombie_icons_3: -1580068285
+      zombie_icons_30: 367267117
+      zombie_icons_31: -260991261
+      zombie_icons_32: -155501897
+      zombie_icons_33: 1537542144
+      zombie_icons_34: 276101621
+      zombie_icons_35: 658552256
+      zombie_icons_36: 92971891
+      zombie_icons_37: -1919245683
+      zombie_icons_38: -313425535
+      zombie_icons_39: -249658636
+      zombie_icons_4: -1993645468
+      zombie_icons_40: 1542566606
+      zombie_icons_41: -1559092917
+      zombie_icons_42: 1231142609
+      zombie_icons_43: -1840578270
+      zombie_icons_44: -667757472
+      zombie_icons_45: -213368891
+      zombie_icons_46: -1435237816
+      zombie_icons_47: -1044242123
+      zombie_icons_48: -22507401
+      zombie_icons_49: -637232795
+      zombie_icons_5: -1563451656
+      zombie_icons_50: 1689971043
+      zombie_icons_51: -1985114288
+      zombie_icons_52: 433878644
+      zombie_icons_53: 1318119560
+      zombie_icons_54: 1081946024
+      zombie_icons_55: 894836384
+      zombie_icons_56: 798353570
+      zombie_icons_57: 1916824526
+      zombie_icons_58: -834539477
+      zombie_icons_59: -1941402961
+      zombie_icons_6: -1439789726
+      zombie_icons_60: 1158473649
+      zombie_icons_61: -1657253184
+      zombie_icons_62: -1040008791
+      zombie_icons_63: 1880479131
+      zombie_icons_64: 131672687
+      zombie_icons_65: 1159788522
+      zombie_icons_66: 431453841
+      zombie_icons_67: 1267691948
+      zombie_icons_68: -564007254
+      zombie_icons_69: 1243761904
+      zombie_icons_7: -1281025114
+      zombie_icons_70: -1600387652
+      zombie_icons_8: -66230351
+      zombie_icons_9: 1213813504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708fb34db10f6fa45b8b50414bc6e4f4, type: 3}
+  m_Name: Chap1MakataQuest
+  m_EditorClassIdentifier: 
+  name: Chap1MakataQuest
+  description: 
+  startDialogue:
+    npcLines: []
+    lines: []
+  inProgressDialogue:
+    npcLines: []
+    lines: []
+  completedDialogue:
+    npcLines:
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: Ang inyong mga sulat na nag bigay buhay sa aking pag mamahal sa aking
+        bayan. Ano ang dahilan ng iyong pagsulat?
+    - characterName: Makata
+      characterIcon: {fileID: 75779394, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: "Ang isip ko ay ayaw mag sinungaling. May makatang tumula sa katotohanan
+        at siya\u2019s pinapahirapan."
+    lines:
+    - 'Ibarra: Ang inyong mga sulat na nag bigay buhay sa aking pag mamahal sa aking
+      bayan. Ano ang dahilan ng iyong pagsulat?'
+    - "Makata: ang isip ko ay ayaw mag sinungaling. May makatang tumula sa katotohanan
+      at siya\u2019s pinapahirapan."
+  textGuideString: 
+  toDoToFinishQuest: 
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 0
+  giveCoins: 0

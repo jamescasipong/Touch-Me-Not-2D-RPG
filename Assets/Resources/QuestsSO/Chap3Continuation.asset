@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79624fcbd7da9a740ac0d48244bf6502, type: 3}
+  m_Name: Chap3Continuation
+  m_EditorClassIdentifier: 
+  name: Chap3Continuation
+  description: 
+  startDialogue:
+    npcLines: []
+  inProgressDialogue:
+    npcLines: []
+  completedDialogue:
+    npcLines:
+    - characterName: Ginoong Laruja
+      characterIcon: {fileID: 21300000, guid: 4830442716daf42438260b9930409983, type: 3}
+      text: 'Sa sobrang tagal mo nang nasa Europa, baka nakakalimutan mo na ang iyong
+        bayan. '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Kahit nakalimutan na ako ng aking bayan, palagi itong nasa isip ko. '
+    - characterName: Ginoong Laruja
+      characterIcon: {fileID: 21300000, guid: 4830442716daf42438260b9930409983, type: 3}
+      text: 'Ano ang ibig ninyong sabihin? '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: "Ang ibig kong sabihin, may isang taon na akong hindi tumatanggap ng
+        balita buhat dito, kaya pakiramdam ko\u2019y isa akong dayuhan na ni hindi
+        alam kung kailan at kung paanog namtay ang kanyang ama! "
+    - characterName: Ginoong Laruja
+      characterIcon: {fileID: 21300000, guid: 4830442716daf42438260b9930409983, type: 3}
+      text: 'Saang lugar sa Europa ang nagustuhan ninyo?  '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Ang Espenya na siang kong pangalawang Inang-Bayan. Ayun ang aking napiling
+        malayang bayan sa europa. '
+    - characterName: Ginoong Laruja
+      characterIcon: {fileID: 21300000, guid: 4830442716daf42438260b9930409983, type: 3}
+      text: 'Ano naman ang pinakamahalagang bagay na inyong nakita na naging karapat-dapat
+        sa pamumuhay sa pananamanpalataya at sa lahat? '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Bago ako tumungo sa isang bayan ay pinagaarlan ko muna ang kanilang
+        kasaysayan. Dagdag pa rito ang tagumpay o pangagailangan ng bayan at nababatay
+        sa taglay nilang kalayaan. '
+    - characterName: Padre Damaso
+      characterIcon: {fileID: 2104478290, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Iyan lamang ang naktia mo? Alam na iyan ng lahat ng bata sa paaralan. '
+    - characterName: Ibarra
+      characterIcon: {fileID: -449172851, guid: b46f881d861140c44929c7de117f777a, type: 3}
+      text: 'Hindi dapat pinagtataka ang sinabi sa aming dating kura. Nagpagunita
+        ito sa aking kabataan. Nag papasalaamt at binuhya nila ang aking ama sa aming
+        maralitang hapag. '
+  textGuideString: 
+  toDoToFinishQuest: 
+  requiredItem: {fileID: 0}
+  requiredItemCount: 0
+  rewardItem: {fileID: 0}
+  rewardItemCount: 0
+  coins: 0
+  giveCoins: 0
+  questsToCheck: []
