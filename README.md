@@ -49,8 +49,10 @@ Make sure you have the following installed:
 
 ## How to Play
 
+Note: This game is made specifically for android users. However, if you want to play it on PC. The hotkeys are in the following:
+
 - **Movement**: Use the arrow keys or WASD to move your character.
-- **Interact**: Press `E` to interact with NPCs and objects.
+- **Interact**: Press `F` to interact with NPCs and objects.
 - **Inventory**: Press `I` to open your inventory.
 - **Menu**: Press `ESC` to open the game menu.
 
