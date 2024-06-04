@@ -1,5 +1,3 @@
----
-
 # Touch Me Not
 
 ![Touch Me Not](Screenshot1.jpg)
