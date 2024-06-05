@@ -22,7 +22,7 @@
 ![Screenshot 3](Screenshot5.jpg)
 
 ## Getting Started
-Note: The complete files were not uploaded. If you wish to obtain the full files, please contact via email, which can be found at the bottom of this whole section.
+**NOTE:** The complete files were not uploaded. If you wish to obtain the full files, please contact via email, which can be found at the bottom of this whole section.
 ### Prerequisites
 
 Make sure you have the following installed:
