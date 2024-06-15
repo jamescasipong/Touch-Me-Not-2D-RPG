@@ -25,7 +25,7 @@
 - **Unity**: For game development and engine.
 - **C#**: For scripting and game logic.
 - **Aseprite**: For creating 2D sprite assets.
-- **Ink script**: For interactive narrative scripting.
+- **Ink script**: For interactive quiz dialogue system.
 
 ## Getting Started
 
