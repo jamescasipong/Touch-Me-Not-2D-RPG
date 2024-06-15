@@ -17,12 +17,20 @@
 
 ![Screenshot 2](Screenshot2.jpg)
 ![Screenshot 3](Screenshot3.jpg)
-![Screenshot 3](Screenshot4.jpg)
-![Screenshot 3](Screenshot6.jpg)
-![Screenshot 3](Screenshot5.jpg)
+![Screenshot 4](Screenshot4.jpg)
+![Screenshot 5](Screenshot5.jpg)
+
+## Technologies Used
+
+- **Unity**: For game development and engine.
+- **C#**: For scripting and game logic.
+- **Aseprite**: For creating 2D sprite assets.
+- **Ink script**: For interactive narrative scripting.
 
 ## Getting Started
-**NOTE:** The complete files were not uploaded. If you wish to obtain the full files, please contact via email, which can be found at the bottom of this whole section.
+
+**NOTE:** The complete files were not uploaded. If you wish to obtain the full files, please contact via email, which can be found at the bottom of this section.
+
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -48,7 +56,7 @@ Make sure you have the following installed:
 
 ## How to Play
 
-Note: This game is made specifically for android users. However, if you want to play it on PC. The hotkeys are in the following:
+Note: This game is made specifically for Android users. However, if you want to play it on PC, the hotkeys are as follows:
 
 - **Movement**: Use the arrow keys or WASD to move your character.
 - **Interact**: Press `F` to interact with NPCs and objects.
