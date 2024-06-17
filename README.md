@@ -3,7 +3,7 @@
 ![Touch Me Not](Screenshot1.jpg)
 ## Overview
 
-**Touch Me Not** is a Filipino 2D RPG game inspired by the novel *Noli Me Tangere*. Dive into a rich, narrative-driven adventure where you complete quests, interact with intriguing NPCs, shop for essential items, and explore different chapters and worlds.
+**Touch Me Not** is a Filipino 2D RPG game developed using Unity (version 2022.3.8f1), inspired by the novel *Noli Me Tangere*. Dive into a rich, narrative-driven adventure where you complete quests, interact with intriguing NPCs, shop for essential items, and explore different chapters and worlds.
 
 ## Features
 
@@ -35,7 +35,7 @@
 
 Make sure you have the following installed:
 
-- [Unity](https://unity.com/download) (version X.X.X or higher)
+- [Unity](https://unity.com/download) (version 2022.3.8f1)
 - [Git](https://git-scm.com/)
 
 ### Installation
