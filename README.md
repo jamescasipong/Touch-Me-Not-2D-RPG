@@ -63,31 +63,6 @@ Note: This game is made specifically for Android users. However, if you want to 
 - **Inventory**: Press `I` to open your inventory.
 - **Menu**: Press `ESC` to open the game menu.
 
-## Contributing
-
-We welcome contributions from the community! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-
-3. Make your changes.
-4. Commit your changes:
-
-    ```bash
-    git commit -m "Add your feature"
-    ```
-
-5. Push to the branch:
-
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-
-6. Open a pull request.
 
 ## Roadmap
 
