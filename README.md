@@ -12,7 +12,7 @@
 - **NPC Interactions**: Engage with a diverse cast of characters, each with their own stories and personalities.
 - **Item Shops**: Purchase items to help you on your quests from various shops.
 - **Chapter Progression**: Advance through different chapters as the story progress, each offering new challenges and environments. Players have the ability to select chapters.
-- **Saving System**: Saving the state of the game using binary
+- **Saving System**: Saving the state of the game using binary.
 - **Gender Selection**: Players have the option to select genders.
 - **Players Inventory**: Players can receive an item from an NPC through finishing stories and quests, as well as picking items from the ground, trees, and inside a chest and store it in an inventory.
 - **Quiz System**: Implements quiz system as per volume players finished to determine what the players have learned throughout that volume.
