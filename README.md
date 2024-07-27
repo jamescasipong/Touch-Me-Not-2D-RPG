@@ -15,7 +15,7 @@
 - **Saving System**: Saving the state of the game using binary.
 - **Gender Selection**: Players have the option to select genders.
 - **Players Inventory**: Players can receive an item from an NPC through finishing stories and quests, as well as picking items from the ground, trees, and inside a chest and store it in the inventory.
-- **Quiz System**: Implements quiz system as per volume players have finished to determine the learnings of players throughout that volume.
+- **Quiz System**: Implements quiz system; players will be taking quiz per each volume players have finished to determine the learnings of players throughout that volume.
 
 ## Screenshots
 
