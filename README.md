@@ -24,7 +24,6 @@
 ![Screenshot 4](Screenshot4.jpg)
 ![Screenshot 5](Screenshot5.jpg)
 ![Screenshot 5](Screenshot5.jpg)
-![Screenshot 6](Screenshot6.jpg)
 ![Screenshot 7](Screenshot7.jpg)
 ![Screenshot 8](Screenshot8.jpg)
 ![Screenshot 9](Screenshot9.jpg)
