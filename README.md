@@ -48,7 +48,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jamescasipong/Touch-Me-Not.git
+    git clone https://github.com/jamescasipong/Touch-Me-Not-2D-RPG.git
     ```
 
 2. Open the project in Unity:
